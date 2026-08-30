@@ -1,21 +1,13 @@
-<div align="center">
+<p align="center">
+  <img src="./divyansh-blue-hero.svg" width="100%" alt="Divyansh Arya - Developer System">
+</p>
 
-# ⚡ J.A.R.V.I.S.
+B.Tech CSE • Minor in Data Science @ IIT Guwahati
 
-### `DEVELOPER SYSTEM // ONLINE`
-
-**DIVYANSH ARYA**
-
-`B.Tech CSE @ SRM AP` &nbsp;•&nbsp; `Minor in Data Science @ IIT Guwahati`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-arya-075b98334/)
 [![GitHub](https://img.shields.io/badge/GitHub-dvfens-181717?style=for-the-badge&logo=github)](https://github.com/dvfens)
 
-<br>
-
-`⚡ BUILD` &nbsp; `BREAK ⚡` &nbsp; `LEARN` &nbsp; `REBUILD`
-
-</div>
 
 ---
 
