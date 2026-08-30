@@ -1,0 +1,84 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#05080D"/>
+    <stop offset="0.55" stop-color="#0A111A"/>
+    <stop offset="1" stop-color="#05080D"/>
+  </linearGradient>
+  <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 210) rotate(90) scale(145)">
+    <stop stop-color="#E8FFFF" stop-opacity="0.98"/>
+    <stop offset="0.22" stop-color="#7DEBFF" stop-opacity="0.9"/>
+    <stop offset="0.55" stop-color="#24B9E8" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#0B6B8D" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" stroke="#4FB6D6" stroke-opacity=".09" stroke-width="1"/>
+  </pattern>
+</defs>
+
+<rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+<rect x="18" y="18" width="1164" height="384" rx="12" stroke="#5EDCFF" stroke-opacity=".35"/>
+<rect x="34" y="34" width="1132" height="352" rx="8" fill="url(#grid)"/>
+
+<!-- HUD corner brackets -->
+<path d="M58 96V58H96M1104 58H1142V96M58 324V362H96M1104 362H1142V324"
+      stroke="#72E7FF" stroke-width="2" stroke-opacity=".8"/>
+<path d="M72 116H210M990 116H1128M72 304H210M990 304H1128"
+      stroke="#72E7FF" stroke-width="1" stroke-opacity=".3"/>
+
+<!-- Side telemetry -->
+<g font-family="monospace" fill="#86DFF5">
+  <text x="78" y="145" font-size="12" letter-spacing="2">CORE / DIVYANSH-01</text>
+  <text x="78" y="168" font-size="11" opacity=".7">REACTOR LINK</text>
+  <text x="78" y="188" font-size="11">ONLINE</text>
+  <text x="78" y="222" font-size="11" opacity=".7">POWER</text>
+  <text x="78" y="242" font-size="18">97.4%</text>
+  <text x="78" y="276" font-size="11" opacity=".7">MODE</text>
+  <text x="78" y="296" font-size="11">DEVELOPER</text>
+
+  <text x="962" y="145" font-size="12" letter-spacing="2">SYSTEM / ACTIVE</text>
+  <text x="962" y="168" font-size="11" opacity=".7">FOCUS</text>
+  <text x="962" y="188" font-size="11">AI / SYSTEMS</text>
+  <text x="962" y="222" font-size="11" opacity=".7">BUILD</text>
+  <text x="962" y="242" font-size="11">DEV TOOLS</text>
+  <text x="962" y="276" font-size="11" opacity=".7">SIGNAL</text>
+  <text x="962" y="296" font-size="11">IIT GUWAHATI</text>
+</g>
+
+<!-- Reactor -->
+<circle cx="600" cy="210" r="142" stroke="#43D8FF" stroke-opacity=".12"/>
+<circle cx="600" cy="210" r="124" stroke="#67E6FF" stroke-opacity=".3" stroke-dasharray="3 8"/>
+<circle cx="600" cy="210" r="104" stroke="#7CEAFF" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="600" cy="210" r="78" stroke="#F16B4F" stroke-opacity=".7" stroke-width="2" stroke-dasharray="14 9"/>
+<circle cx="600" cy="210" r="58" fill="url(#core)" filter="url(#glow)"/>
+<circle cx="600" cy="210" r="32" fill="#DFFFFF" fill-opacity=".92" filter="url(#glow)"/>
+<circle cx="600" cy="210" r="14" fill="#FFFFFF"/>
+
+<!-- Reactor ticks -->
+<g stroke="#74E8FF" stroke-width="2" opacity=".8">
+  <path d="M600 60V76M600 344V360M450 210H466M734 210H750"/>
+  <path d="M494 104L505 115M695 305L706 316M706 104L695 115M505 305L494 316"/>
+</g>
+
+<!-- Title -->
+<text x="600" y="86" text-anchor="middle" fill="#EAFBFF"
+      font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="7">
+  DIVYANSH
+</text>
+<text x="600" y="355" text-anchor="middle" fill="#79E8FF"
+      font-family="monospace" font-size="12" letter-spacing="4">
+  DEVELOPER SYSTEM // ONLINE
+</text>
+<text x="600" y="378" text-anchor="middle" fill="#A8BBC4"
+      font-family="monospace" font-size="10" letter-spacing="2">
+  DIVYANSH ARYA • AI • SOFTWARE SYSTEMS • DEVELOPER TOOLS
+</text>
+
+<!-- tiny status lights -->
+<circle cx="108" cy="76" r="4" fill="#74E8FF"/>
+<circle cx="1092" cy="76" r="4" fill="#F16B4F"/>
+</svg>
