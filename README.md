@@ -11,83 +11,71 @@ B.Tech CSE • Minor in Data Science @ IIT Guwahati
 
 ---
 
-## 🤖 SYSTEM PROFILE
+---
 
-> **Computer Science Engineering student building at the intersection of software, AI, and developer tools.**
+## ABOUT // CURRENT STATE
 
-Currently pursuing **B.Tech in CSE at SRM University, Andhra Pradesh**, along with a **Minor in Data Science from IIT Guwahati**.
+**Software engineering student building at the intersection of AI, systems, and developer tools.**
 
-I learn by building — from payment systems to AI-powered developer infrastructure.
+Currently pursuing a **B.Tech in Computer Science & Engineering** with a **Minor in Data Science from IIT Guwahati**.
+
+I like building ambitious things, figuring out why they broke, and occasionally pretending that was the plan.
 
 ```text
-STATUS        : ONLINE
-CURRENT MODE  : BUILDING
-FOCUS         : AI • SYSTEMS • DEVELOPER TOOLS
-NEXT MISSION  : CLASSIFIED
-```
+CURRENT STATUS   ● BUILDING
+PRIMARY FOCUS    AI / SOFTWARE / SYSTEMS
+EXPERIMENTING    DEVELOPER TOOLS
+COFFEE LEVEL     █████████░  90%
 
 ---
+```
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
-<div align="center">
-
 ### LANGUAGES
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### TOOLS
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-# 🦾 ARMOR DEVELOPMENT PROGRAM
+---
 
-### ⚡ MARK-I — BitSend
+## SELECTED SYSTEMS
 
-`FINTECH` • `COMPLETED`
+### `01`  BitSend
+**Hybrid Payment System** · `COMPLETED`
 
-Hybrid payment system built to explore modern payment workflows.
+A hybrid payment platform built around modern payment workflows.
+
+`Payment Systems` · `Software Engineering`
 
 ---
 
-### 🧠 MARK-II — KYROSIS
+### `02`  KYROSIS
+**AI-Powered Spatial Operating System** · `IN DEVELOPMENT`
 
-`AI / SYSTEMS` • `IN DEVELOPMENT`
+A modular AI systems foundation built around an in-process event bus and replaceable plugins, with separate layers for reasoning, memory, transport, voice, vision, and visualization.
 
-A modular **AI-powered spatial operating system foundation** built around:
-
-`EVENT BUS` • `PLUGINS` • `REASONING` • `MEMORY` • `VOICE` • `VISION`
-
----
-
-### 🛰️ MARK-III — GitMind AI
-
-`AI / DEVELOPER TOOLS` • `IN DEVELOPMENT`
-
-AI-powered repository intelligence platform that helps developers understand unfamiliar GitHub repositories.
-
-**Powered by**
-
-`Coral SQL` • `GitHub Signals` • `OpenRouter`
+`AI` · `Systems` · `Modular Architecture`
 
 ---
 
-<div align="center">
+### `03`  GitMind AI
+**Repository Intelligence Platform** · `IN DEVELOPMENT`
 
-### `3 SYSTEMS • 1 MISSION`
+An AI-powered platform for understanding unfamiliar GitHub repositories through repository signals, structured insights, architecture observations, learning paths, and developer guidance.
 
-</div>
-
----
-
+`Coral SQL` · `GitHub` · `OpenRouter`
 # 🏆 MISSION LOG
 
 | | Mission | Status |
