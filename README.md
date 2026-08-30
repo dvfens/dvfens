@@ -76,16 +76,25 @@ A modular AI systems foundation built around an in-process event bus and replace
 An AI-powered platform for understanding unfamiliar GitHub repositories through repository signals, structured insights, architecture observations, learning paths, and developer guidance.
 
 `Coral SQL` · `GitHub` · `OpenRouter`
-# 🏆 MISSION LOG
+## 🏆 MISSION LOG
 
 | | Mission | Status |
 |---|---|---|
-| 🎓 | Minor in Data Science — IIT Guwahati | `ACTIVE` |
-| 💻 | B.Tech CSE — SRM AP | `3rd YEAR` |
-| 🏢 | Internship — Sylicca LLC | `COMPLETED` |
-| 🌐 | ETHGlobal Hackathon | `PARTICIPANT` |
-| 🏆 | Odoo Hackathon | `SEMIFINALIST • 19K+` |
-| 🏆 | Flipkart GRiD 8.0 | `SEMIFINALIST` |
+| 🏢 | **Internship — Sylicca LLC** | `COMPLETED` |
+| 🌐 | **ETHGlobal Hackathon** | `PARTICIPANT` |
+| 🏆 | **Odoo Hackathon** | `SEMIFINALIST • 19K+` |
+| 🏆 | **Flipkart GRiD 8.0** | `SEMIFINALIST` |
+
+---
+
+## 🎓 EDUCATION
+
+| Institution | Program |
+|---|---|
+| 🎯 **IIT Guwahati** | Minor in Data Science |
+| 💻 **SRM University, Andhra Pradesh** | B.Tech — Computer Science & Engineering |
+
+`3rd Year • 5th Semester`
 
 ---
 
@@ -107,56 +116,14 @@ An AI-powered platform for understanding unfamiliar GitHub repositories through 
 
 ---
 
-# 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvfens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85149&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvfens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
+---
 
 ---
 
-# 🧠 DEVELOPMENT PROTOCOL
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-`LEARN` → `BUILD` → `BREAK` → `DEBUG` → `IMPROVE` → `REPEAT`
-
-<br>
-
-> **"The best way to learn is to build."**
-
-</div>
-
----
-
-# 📡 COMMUNICATION CHANNEL
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-DIVYANSH_ARYA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-arya-075b98334/)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-dvfens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvfens)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       J.A.R.V.I.S. // SYSTEM STATUS: ONLINE       ║
-║                                                      ║
-║              NEXT MISSION: UNKNOWN                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-### ⚡ `BUILD. BREAK. LEARN. REBUILD.`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvfens&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph">
 
 </div>
