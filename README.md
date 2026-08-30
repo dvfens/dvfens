@@ -1,16 +1,19 @@
 <div align="center">
 
-# ⚡ J.A.R.V.I.S. // DEVELOPER SYSTEM
+# ⚡ J.A.R.V.I.S.
 
-### `SYSTEM STATUS: ONLINE`
+### `DEVELOPER SYSTEM // ONLINE`
 
-# **DIVYANSH ARYA**
+**DIVYANSH ARYA**
 
-### `B.Tech CSE @ SRM AP` • `Minor in Data Science @ IIT Guwahati`
+`B.Tech CSE @ SRM AP` &nbsp;•&nbsp; `Minor in Data Science @ IIT Guwahati`
 
-> **BUILD. BREAK. LEARN. REBUILD.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-arya-075b98334/)
+[![GitHub](https://img.shields.io/badge/GitHub-dvfens-181717?style=for-the-badge&logo=github)](https://github.com/dvfens)
 
-`J.A.R.V.I.S.: Welcome back, sir.`
+<br>
+
+`⚡ BUILD` &nbsp; `BREAK ⚡` &nbsp; `LEARN` &nbsp; `REBUILD`
 
 </div>
 
@@ -18,190 +21,135 @@
 
 ## 🤖 SYSTEM PROFILE
 
+> **Computer Science Engineering student building at the intersection of software, AI, and developer tools.**
+
+Currently pursuing **B.Tech in CSE at SRM University, Andhra Pradesh**, along with a **Minor in Data Science from IIT Guwahati**.
+
+I learn by building — from payment systems to AI-powered developer infrastructure.
+
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                  J.A.R.V.I.S. INITIALIZATION                 │
-├──────────────────────────────────────────────────────────────┤
-│ USER        : DIVYANSH ARYA                                  │
-│ PRIMARY     : B.TECH CSE — SRM AP                           │
-│ SPECIALITY  : MINOR IN DATA SCIENCE — IIT GUWAHATI          │
-│ YEAR        : 3rd YEAR • 5th SEMESTER                       │
-│ STATUS      : BUILDING                                      │
-└──────────────────────────────────────────────────────────────┘
+STATUS        : ONLINE
+CURRENT MODE  : BUILDING
+FOCUS         : AI • SYSTEMS • DEVELOPER TOOLS
+NEXT MISSION  : CLASSIFIED
 ```
 
-Computer Science Engineering student interested in **Artificial Intelligence, software systems, and developer tools**.
-
-I enjoy turning ideas into working systems and learning by building things that challenge me.
-
 ---
 
-# 🎓 EDUCATION
+## 🛠️ TECHNOLOGY ARSENAL
 
-| Institution | Program |
-|---|---|
-| 🎯 **IIT Guwahati** | Minor in Data Science |
-| 💻 **SRM University, Andhra Pradesh** | B.Tech — Computer Science & Engineering |
-
-`CURRENT LEVEL: 3rd YEAR • 5th SEMESTER`
-
----
-
-# 🛠️ TECHNOLOGY ARSENAL
+<div align="center">
 
 ### LANGUAGES
 
-`Java` `C++` `C` `Python`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### TOOLS
 
-`Git` `GitHub`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### CURRENT INTERESTS
-
-`AI` `Developer Tools` `Software Systems`
+</div>
 
 ---
 
 # 🦾 ARMOR DEVELOPMENT PROGRAM
 
-> `PROJECT ARCHIVE // ACTIVE BUILDS`
-
 ### ⚡ MARK-I — BitSend
 
-**STATUS:** `OPERATIONAL`
+`FINTECH` • `COMPLETED`
 
-Hybrid payment system focused on modern payment workflows.
-
-`FINTECH`
+Hybrid payment system built to explore modern payment workflows.
 
 ---
 
 ### 🧠 MARK-II — KYROSIS
 
-**STATUS:** `UNDER DEVELOPMENT`
+`AI / SYSTEMS` • `IN DEVELOPMENT`
 
 A modular **AI-powered spatial operating system foundation** built around:
 
-`EVENT BUS` • `PLUGINS` • `REASONING` • `MEMORY` • `VOICE` • `VISION` • `VISUALIZATION`
-
-`AI / SYSTEM ARCHITECTURE`
+`EVENT BUS` • `PLUGINS` • `REASONING` • `MEMORY` • `VOICE` • `VISION`
 
 ---
 
 ### 🛰️ MARK-III — GitMind AI
 
-**STATUS:** `ACTIVE DEVELOPMENT`
+`AI / DEVELOPER TOOLS` • `IN DEVELOPMENT`
 
-AI-powered **GitHub repository intelligence platform** that helps developers understand unfamiliar repositories faster.
+AI-powered repository intelligence platform that helps developers understand unfamiliar GitHub repositories.
 
-Powered by:
+**Powered by**
 
 `Coral SQL` • `GitHub Signals` • `OpenRouter`
 
-Provides repository summaries, architecture insights, learning paths and developer guidance.
+---
 
-`AI / DEVELOPER INTELLIGENCE`
+<div align="center">
+
+### `3 SYSTEMS • 1 MISSION`
+
+</div>
 
 ---
 
 # 🏆 MISSION LOG
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                         MISSION LOG                          │
-├──────────────────────────────────────────────────────────────┤
-│ [✓] Internship — Sylicca LLC                                │
-│ [✓] ETHGlobal Hackathon                                     │
-│ [✓] Odoo Hackathon — SEMIFINALIST                           │
-│ [✓] Flipkart GRiD 8.0 — SEMIFINALIST                        │
-│ [→] KYROSIS — UNDER DEVELOPMENT                             │
-│ [→] GitMind AI — UNDER DEVELOPMENT                          │
-│ [→] Next Mission — LOADING...                               │
-└──────────────────────────────────────────────────────────────┘
-```
-
-### 🏅 HIGHLIGHT
-
-**Odoo Hackathon**  
-`SEMIFINALIST • 19,000+ PARTICIPANTS`
-
-**Flipkart GRiD 8.0**  
-`SEMIFINALIST`
-
-**ETHGlobal**  
-`HACKATHON PARTICIPANT`
-
-**Sylicca LLC**  
-`INTERNSHIP EXPERIENCE`
+| | Mission | Status |
+|---|---|---|
+| 🎓 | Minor in Data Science — IIT Guwahati | `ACTIVE` |
+| 💻 | B.Tech CSE — SRM AP | `3rd YEAR` |
+| 🏢 | Internship — Sylicca LLC | `COMPLETED` |
+| 🌐 | ETHGlobal Hackathon | `PARTICIPANT` |
+| 🏆 | Odoo Hackathon | `SEMIFINALIST • 19K+` |
+| 🏆 | Flipkart GRiD 8.0 | `SEMIFINALIST` |
 
 ---
 
 # ⚡ CURRENT OBJECTIVES
 
 ```text
-[████████████████░░░░] BUILD BETTER SYSTEMS
-
-[██████████████░░░░░░] EXPLORE AI
-
-[████████████░░░░░░░░] IMPROVE SOFTWARE ENGINEERING
-
-[██████████░░░░░░░░░░] BUILD DEVELOPER TOOLS
-
-[████████░░░░░░░░░░░░] CONTRIBUTE TO OPEN SOURCE
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  [01]  BUILD AI-POWERED SYSTEMS                     │
+│                                                      │
+│  [02]  CREATE BETTER DEVELOPER TOOLS                │
+│                                                      │
+│  [03]  MASTER SOFTWARE ENGINEERING                  │
+│                                                      │
+│  [04]  SHIP MORE. LEARN MORE.                      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
-
----
-
-# 🧠 DEVELOPMENT PROTOCOL
-
-```text
-          ┌───────────┐
-          │   LEARN   │
-          └─────┬─────┘
-                ↓
-          ┌───────────┐
-          │   BUILD   │
-          └─────┬─────┘
-                ↓
-          ┌───────────┐
-          │   BREAK   │
-          └─────┬─────┘
-                ↓
-          ┌───────────┐
-          │   DEBUG   │
-          └─────┬─────┘
-                ↓
-          ┌───────────┐
-          │  IMPROVE  │
-          └─────┬─────┘
-                ↓
-             REPEAT
-```
-
-> **"The best way to learn is to build."**
 
 ---
 
 # 📊 GITHUB TELEMETRY
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     ⚡ REACTOR STATUS                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   REPOSITORIES       : SCANNING...                           │
-│   CONTRIBUTIONS      : SCANNING...                           │
-│   COMMITS            : SCANNING...                           │
-│   STARS              : SCANNING...                           │
-│   STREAK              : SCANNING...                          │
-│                                                              │
-│   J.A.R.V.I.S.      : ONLINE                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-> `LIVE TELEMETRY MODULE: NEXT UPGRADE`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvfens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85149&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvfens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+# 🧠 DEVELOPMENT PROTOCOL
+
+<div align="center">
+
+`LEARN` → `BUILD` → `BREAK` → `DEBUG` → `IMPROVE` → `REPEAT`
+
+<br>
+
+> **"The best way to learn is to build."**
+
+</div>
 
 ---
 
@@ -211,6 +159,8 @@ Provides repository summaries, architecture insights, learning paths and develop
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-DIVYANSH_ARYA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-arya-075b98334/)
 
+[![GitHub](https://img.shields.io/badge/GITHUB-dvfens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvfens)
+
 </div>
 
 ---
@@ -218,13 +168,13 @@ Provides repository summaries, architecture insights, learning paths and develop
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              J.A.R.V.I.S. // SYSTEM ONLINE                 ║
-║                                                              ║
-║                 NEXT MISSION: UNKNOWN                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       J.A.R.V.I.S. // SYSTEM STATUS: ONLINE       ║
+║                                                      ║
+║              NEXT MISSION: UNKNOWN                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ### ⚡ `BUILD. BREAK. LEARN. REBUILD.`
