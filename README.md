@@ -11,24 +11,10 @@ B.Tech CSE • Minor in Data Science @ IIT Guwahati
 
 ---
 
+## ABOUT
+ **“If it works, I meant to do that.”**
 ---
 
-## ABOUT // CURRENT STATE
-
-**Software engineering student building at the intersection of AI, systems, and developer tools.**
-
-Currently pursuing a **B.Tech in Computer Science & Engineering** with a **Minor in Data Science from IIT Guwahati**.
-
-I like building ambitious things, figuring out why they broke, and occasionally pretending that was the plan.
-
-```text
-CURRENT STATUS   ● BUILDING
-PRIMARY FOCUS    AI / SOFTWARE / SYSTEMS
-EXPERIMENTING    DEVELOPER TOOLS
-COFFEE LEVEL     █████████░  90%
-
----
-```
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
@@ -48,34 +34,7 @@ COFFEE LEVEL     █████████░  90%
 
 ---
 
----
 
-## SELECTED SYSTEMS
-
-### `01`  BitSend
-**Hybrid Payment System** · `COMPLETED`
-
-A hybrid payment platform built around modern payment workflows.
-
-`Payment Systems` · `Software Engineering`
-
----
-
-### `02`  KYROSIS
-**AI-Powered Spatial Operating System** · `IN DEVELOPMENT`
-
-A modular AI systems foundation built around an in-process event bus and replaceable plugins, with separate layers for reasoning, memory, transport, voice, vision, and visualization.
-
-`AI` · `Systems` · `Modular Architecture`
-
----
-
-### `03`  GitMind AI
-**Repository Intelligence Platform** · `IN DEVELOPMENT`
-
-An AI-powered platform for understanding unfamiliar GitHub repositories through repository signals, structured insights, architecture observations, learning paths, and developer guidance.
-
-`Coral SQL` · `GitHub` · `OpenRouter`
 ## 🏆 MISSION LOG
 
 | | Mission | Status |
