@@ -1,10 +1,15 @@
-<h2 align="left">Hi 👋! I'm Divyansh Arya</h2>
+<h2 align="left">
+  Hi 👋! I'm Divyansh Arya
+  <img src="https://gifdb.com/images/branded/high/anime-boy-waving-hello-offsxsk3obu7ngkt.gif" width="55">
+</h2>
 
-<img align="right" width="140" height="140" src="YOUR_GIF_HERE" />
 
-<p><em>Computer Science Engineering @ SRM University, Andhra Pradesh</br>
+
+<p><em>
+Computer Science Engineering @ SRM University, Andhra Pradesh</br>
 Minor in Data Science @ IIT Guwahati</br>
-Currently building with AI, software & systems</em></p>
+Currently building with AI, software & systems
+</em></p>
 
 ### 🔧&nbsp; `Languages and Tools`
 
