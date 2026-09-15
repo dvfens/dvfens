@@ -6,9 +6,7 @@
 
 
 <p><em>
-Computer Science Engineering @ SRM University, Andhra Pradesh</br>
 Minor in Data Science @ IIT Guwahati</br>
-Currently building with AI, software & systems
 </em></p>
 
 ### 🔧&nbsp; `Languages and Tools`
